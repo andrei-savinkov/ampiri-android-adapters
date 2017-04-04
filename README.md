@@ -1,0 +1,1 @@
+# ampiri-android-adapters
